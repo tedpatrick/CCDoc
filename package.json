@@ -1,0 +1,14 @@
+{
+  "name": "ccdoc",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "claude": "claude"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "@anthropic-ai/claude-code": "^1.0.51"
+  }
+}
